@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TT.Deliveries.Data/1.0.0": {
+        "dependencies": {
+          "TT.Deliveries.Application": "1.0.0"
+        },
+        "runtime": {
+          "TT.Deliveries.Data.dll": {}
+        }
+      },
+      "TT.Deliveries.Application/1.0.0": {
+        "runtime": {
+          "TT.Deliveries.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TT.Deliveries.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TT.Deliveries.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

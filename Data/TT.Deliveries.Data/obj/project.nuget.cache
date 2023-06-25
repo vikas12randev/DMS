@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuU32QPoxpdAMwv2KU243HuRJeXqDPUqS0UfHsvfkeO7gYxR52JOnhahGuVc0RjEh5bQwoazKG+nHcURCO1yVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

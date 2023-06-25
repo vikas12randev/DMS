@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delivery.Persistence\\TT.Delivery.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj",
+        "projectName": "TT.Deliveries.Data",
+        "projectPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj",
+        "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\TT.Deliveries.Application.csproj": {
+                "projectPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\TT.Deliveries.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\TT.Deliveries.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\TT.Deliveries.Application.csproj",
+        "projectName": "TT.Deliveries.Application",
+        "projectPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\TT.Deliveries.Application.csproj",
+        "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delieveries.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delivery.Persistence\\TT.Delivery.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delivery.Persistence\\TT.Delivery.Persistence.csproj",
+        "projectName": "TT.Delivery.Persistence",
+        "projectPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delivery.Persistence\\TT.Delivery.Persistence.csproj",
+        "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\TT.Delivery.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+                "projectPath": "C:\\Users\\vikas\\Downloads\\in-home-challenge-master\\in-home-challenge-master\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "linq2db": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

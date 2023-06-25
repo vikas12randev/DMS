@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Tests\\TT.Deliveries.Tests\\TT.Deliveries.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj",
+        "projectName": "TT.Deliveries.Data",
+        "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj",
+        "packagesPath": "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas.sharma@easyjet.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Tests\\TT.Deliveries.Tests\\TT.Deliveries.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Tests\\TT.Deliveries.Tests\\TT.Deliveries.Tests.csproj",
+        "projectName": "TT.Deliveries.Tests",
+        "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Tests\\TT.Deliveries.Tests\\TT.Deliveries.Tests.csproj",
+        "packagesPath": "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Tests\\TT.Deliveries.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas.sharma@easyjet.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\TT.Deliveries.Web.Api.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\TT.Deliveries.Web.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\TT.Deliveries.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\TT.Deliveries.Application.csproj",
+        "projectName": "TT.Deliveries.Application",
+        "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\TT.Deliveries.Application.csproj",
+        "packagesPath": "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas.sharma@easyjet.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj"
+              },
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\TT.Deliveries.Persistence.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\TT.Deliveries.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\TT.Deliveries.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\TT.Deliveries.Persistence.csproj",
+        "projectName": "TT.Deliveries.Persistence",
+        "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\TT.Deliveries.Persistence.csproj",
+        "packagesPath": "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Delivery.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas.sharma@easyjet.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "linq2db": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\TT.Deliveries.Web.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\TT.Deliveries.Web.Api.csproj",
+        "projectName": "TT.Deliveries.Web.Api",
+        "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\TT.Deliveries.Web.Api.csproj",
+        "packagesPath": "C:\\Users\\vikas.sharma@easyjet.com\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Web\\TT.Deliveries.Web.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas.sharma@easyjet.com\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\Data\\TT.Deliveries.Data\\TT.Deliveries.Data.csproj"
+              },
+              "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\TT.Deliveries.Application.csproj": {
+                "projectPath": "C:\\Users\\vikas.sharma@easyjet.com\\OneDrive - easyJet\\Desktop\\Docs\\SD\\exercise-latest\\src\\TT.Deliveries.Application\\TT.Deliveries.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\TT.Deliveries.Data.deps.json
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\TT.Deliveries.Data.dll
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\ref\TT.Deliveries.Data.dll
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\TT.Deliveries.Data.pdb
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\TT.Deliveries.Application.dll
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\bin\Debug\net5.0\TT.Deliveries.Application.pdb
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.csproj.AssemblyReference.cache
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.AssemblyInfoInputs.cache
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.AssemblyInfo.cs
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.csproj.CoreCompileInputs.cache
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.csproj.CopyComplete
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.dll
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\ref\TT.Deliveries.Data.dll
+C:\Users\vikas\Downloads\in-home-challenge-master\in-home-challenge-master\src\Data\TT.Deliveries.Data\obj\Debug\net5.0\TT.Deliveries.Data.pdb
