@@ -36,7 +36,7 @@ This layer is a web api application based on ASP.NET 6.0.x. This layer depends o
 * [Entity Framework Core 6](https://docs.microsoft.com/en-us/ef/core/)
 * [MediatR](https://github.com/jbogard/MediatR)
 * [FluentValidation](https://fluentvalidation.net/)
-* [NUnit](https://nunit.org/), [FluentAssertions](https://fluentassertions.com/), [Moq](https://github.com/moq) & [Respawn](https://github.com/jbogard/Respawn)
+* [NUnit](https://nunit.org/), [FluentAssertions](https://fluentassertions.com/), [Moq](https://github.com/moq)
 * [Docker](https://www.docker.com/)
 
 ## Getting Started
